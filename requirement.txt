@@ -8,3 +8,16 @@ matplotlib
 Pillow
 jupyter
 ipykernel
+
+Clone:
+
+git clone https://github.com/YOUR_USERNAME/Gender_Classification.git
+cd Gender_Classification
+
+py -3.12 -m venv .venv
+.\.venv\Scripts\Activate.ps1
+
+python -m pip install -r requirements.txt
+
+cd frontend
+npm ci
