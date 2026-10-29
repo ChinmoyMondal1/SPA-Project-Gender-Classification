@@ -1,0 +1,22 @@
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Frontend
+node_modules/
+dist/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Large datasets
+data/raw/
+data/processed/

@@ -1,0 +1,10 @@
+Requirements for Python 3.12 :
+tensorflow
+opencv-python
+numpy
+pandas
+scikit-learn
+matplotlib
+Pillow
+jupyter
+ipykernel
